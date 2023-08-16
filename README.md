@@ -1,4 +1,5 @@
 # WGAN-GP (Wasserstein Generative Adversarial Network with Gradient Penalty)
+New human face generation from noise using WGAN with Gradient Penality
 
 ## Table of Contents
 
